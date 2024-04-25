@@ -1,0 +1,19 @@
+~ Stonks ---> Need to learn C to solve it.
+
+~ Mind your Ps and Qs --->  Need to learn RSA to solve it. #SOLVED
+
+~ tunn3l v1s10n ---> Need to understand bitmap and headers of files + using hex editor.
+
+~ ARMssembly 0 ---> Need to learn assembly (68k ?)
+
+~ ARMssembly 1 ---> Need to learn assembly.
+
+~ Cache Me Outside ---> Need to learn C.
+
+~ Mini RSA ---> Need to learn RSA and Crypto
+
+~ Dachshund Attacks ---> Need to learn RSA.
+
+~ More Cookies ---> Learn about CBC encryption.
+
+~ FRom here on, I stopped writing. Those who are unsolved need revisiting.

@@ -1,0 +1,4 @@
+# I did view source page, and the flag is split up there, so I glued it together.
+
+~~~FLAG~~~
+picoCTF{no_clients_plz_1a3c89}

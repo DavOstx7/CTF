@@ -1,0 +1,7 @@
+# I found 1/3 of the flag by inspecting the website ("view source") - here it is picoCTF{tru3_d3
+# I found the 2/3 of the flag by clicking on href="mycss.css" when I inspected the site - here it is t3ct1ve_0r_ju5t
+# I found the 3/3 of the flag by clicking on src="myjs.js" when I inspected the site - here it is _lucky?832b0699}
+
+~~~FLAG~~~
+
+picoCTF{tru3_d3t3ct1ve_0r_ju5t_lucky?832b0699} 

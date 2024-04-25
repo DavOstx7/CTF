@@ -1,0 +1,12 @@
+# First I viewed the source of the site and found the first part of the flag.
+# Then from there I went to the link of the .css file which gave me the second part of the flag.
+# Then I went to the link of the .js file, which gave me a hint that says: /* How can I keep Google from indexing my website? */
+# I saw in yt that the answer is robots.txt, which tells crawlers or search engines not to crawl to a URL.
+* <Actually from my understanding, to prevent indexing, you should use the robot meta tag Noindex: Tells a search engine not to index a page.
+# Then the next hint was that is is an apache server, can I ACCESS the next flag, so the next one is /.htacess
+# Then the next hint was that this website runs on MAC, and it loves to STORE information there, so the next one is /.DS_Store
+
+~~~FLAG~~~
+picoCTF{th4ts_4_l0t_0f_pl4c3s_2_lO0k_35844447}
+
+*Btw, I found all of these URLS by running dirsearch

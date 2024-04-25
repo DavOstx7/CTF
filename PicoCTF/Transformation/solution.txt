@@ -1,0 +1,12 @@
+* The solution is basically within the python file named code.py.
+
+It was by understanding the encryption code.
+At first I made a solution by guessing, but after that I understood better what << 8 means.
+The explanation is in the .py code
+
+~~~FLAG~~~
+
+picoCTF{16_bits_inst34d_of_8_75d4898b}
+
+
+

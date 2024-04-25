@@ -1,0 +1,8 @@
+# I used python ---> print(bin(42)) and got 0b101010
+
+* Can also use echo "obase=2; ibase=10; 42" | bc
+
+~~~FLAG~~~
+
+picoCTF{101010}
+

@@ -1,0 +1,5 @@
+# Convert to base64 using base64 -di
+
+~~~FLAG~~~
+
+picoCTF{l3arn_th3_r0p35}

@@ -1,0 +1,5 @@
+# Explanation in the decrypt.py file
+
+~~~FLAG~~~
+
+picoCTF{w41t_s0_1_d1dnt_1nv3nt_x0r???}

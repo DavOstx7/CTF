@@ -1,0 +1,4 @@
+Clutter, clutter everywhere and not a byte to use.
+nc mars.picoctf.net 31890
+
+

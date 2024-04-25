@@ -1,0 +1,8 @@
+#Pretty obvious we need to decode this thing!
+
+1) Use online decoder - easy
+2) write a program - rot13.py 
+rot13 takes a string and decodes it using rot13 function.
+
+* The result is: picoCTF{next_time_I'll_try_2_rounds_of_rot13_wqWOSBKW}
+

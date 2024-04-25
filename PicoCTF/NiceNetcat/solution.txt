@@ -1,0 +1,6 @@
+* I solved it by using the 'nc mercury.picoctf.net 7449' and seeing it prints out nubmers which looked like they represent ASCII code.
+Next thing I wrote a python program that reads every number and translates it to an ASCII char, then adds those up and prints the output string which is the flag.
+
+~~~FLAG~~~
+picoCTF{g00d_k1tty!_n1c3_k1tty!_f2d7cafa}
+

@@ -1,0 +1,39 @@
+# After playing with the menu that nc presented, I saw that I could reach negative money so I knew something off.
+# When I gave it negative input, it didn't show no type of error.
+# So what I did, I want to buy something, and when it asked me for the amount, I gave it a negative number.
+# I figured that the only check it does, is when you want to buy an item, for example:
+<
+If I have 40 coins, and I want to buy something which is worth 10 for a unit, it will check:
+is (40 > 10):
+	...
+
+if I have 40 coins and I want to buy something which is worth 100 for a unit, it will check:
+is (40 > 100):
+        ...
+>
+
+# So I went to buy something which is worth 10, and gave it -10. What it did to my money was:
+40 - (10 * -10) 
+|      |     |
+|      |     amount
+|      |
+|      worth of the item
+|
+|
+|
+|
+my money
+
+# Then it updated the amount of units available of be <units> - <amount>, and it updated the amount of units I have to be -<amount>
+
+# The same problem appears in the selling section.
+
+# After I got the money I bought the flag which gave me this:
+[112 105 99 111 67 84 70 123 98 52 100 95 98 114 111 103 114 97 109 109 101 114 95 53 57 49 97 56 57 53 97 125]
+
+#This looked like an ascii order of a char, so I made a python script which iterates and does chr on every number, and the result is:
+
+~~~FLAG~~~
+picoCTF{b4d_brogrammer_591a895a}
+ 
+

@@ -1,0 +1,14 @@
+# The idea was to try to make a decrypt.py which tries to make the decoding list, but it took too long.
+# So, I found a website that does monoalphabetic substitution decoding, and gave it the flag and some long words from the bee-quiz text.
+
+#Ciphertext I gave: (After checking I could give the flag with underscores<_> + It's better to give a longer ciphertext to analyze)
+brcfxba vfr mid hosbrm iprc exa hoav vwcrm
+crnvwywnxvwita mwacrabrnvyoltraa vfcragwictwvfwtxr xoanolvxvwtd
+
+#Result:
+perhaps the dog jumped over was just tired
+rectifications disrespectfulness thresbiornithinae auscultating
+
+~~~FLAG~~~
+
+picoCTF{perhaps_the_dog_jumped_over_was_just_tired}

@@ -1,0 +1,7 @@
+* Just unzip the zip file, then use tab's to reach a file which contains strings and binary stuff.
+Then use strings to extract the readable stuff out the file, and find the flag (I use grep "pico" or "CTF")
+
+~~~FLAG~~~
+
+picoCTF{l3v3l_up!_t4k3_4_r35t!_6f332f10}
+

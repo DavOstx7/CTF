@@ -1,0 +1,7 @@
+# The answer is literally inside the code of the java file.
+# It checks the answer (it expects for the flag), then it strips the picoCTF{ and } to get what's inside the '{}'
+# Then it passes it to a function which checks if it equals to set password
+
+~~~FLAG~~~
+picoCTF{w4rm1ng_Up_w1tH_jAv4_eec0716b713}
+

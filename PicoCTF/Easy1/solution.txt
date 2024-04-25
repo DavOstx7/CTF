@@ -1,0 +1,5 @@
+# Solution is in decrypt.txt
+
+~~~FLAG~~~
+
+picoCTF{CRYPTOISFUN}

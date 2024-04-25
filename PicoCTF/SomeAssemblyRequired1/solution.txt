@@ -1,0 +1,6 @@
+# First I tried to use the 'view page source' but I couldn't get to a solution.
+# Then I looked on yt and saw that 'inspect' is actually different the view page source.
+# When I used inspect and went to source, I saw an assembly file, under the wasm/adda0372 which at the bottom contained the flag
+
+~~~FLAG~~~
+picoCTF{a8bae10f4d9544110222c2d639dc6de6}

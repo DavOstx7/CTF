@@ -1,0 +1,3 @@
+# Just convert bases in the base.py (cleaner code and more fitting to the question <base 2,8,16> than translate.py) script.
+~~~FLAG~~~
+picoCTF{learning_about_converting_values_00a975ff}

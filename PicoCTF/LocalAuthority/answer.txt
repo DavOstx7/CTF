@@ -1,0 +1,3 @@
+go into the website, search for the login.php route.
+in this route, therer is also an admin.php route, but we needs the source script for checking the password.
+inside the script we see the user and the password which we need to login in.

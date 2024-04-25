@@ -1,0 +1,6 @@
+#Explanation in the decrypt.py
+
+~~~FLAG~~~
+
+3f4b60ebf36369258d8638d2038c7ad1
+

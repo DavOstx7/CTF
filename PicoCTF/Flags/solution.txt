@@ -1,0 +1,3 @@
+#The flags represent the flags of the Internation Code of Signals. The letters in the flag are the first letter of each flag which is displayed in the flag.png
+~~~FLAG~~~
+PICOCTF{F1AG5AND5TUFF}

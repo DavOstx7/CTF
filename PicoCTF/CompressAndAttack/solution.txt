@@ -1,0 +1,4 @@
+# see decrypt.py
+
+~~~FLAG~~~
+picoCTF{sheriff_you_solved_the_crime}

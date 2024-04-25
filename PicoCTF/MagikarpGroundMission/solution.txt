@@ -1,0 +1,9 @@
+# I connected via ssh to the endpoint in which is in the website.
+
+#Then I did ls, to find flag1 out of 3.
+#Then I moved to root using 'cd /', and using ls I found flag2 out of 3.
+#Then I moved to the home directory using 'cd ~', and using ls I found flag3 out of 3.
+#I used cat to display each one, and then added them to get the final result.
+
+~~~FLAG~~~
+picoCTF{xxsh_0ut_0f_\/\/4t3r_3ca613a1}

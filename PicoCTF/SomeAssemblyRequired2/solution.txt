@@ -1,0 +1,6 @@
+# I did inspect on the site, found the asm file, at the bottom there was a weird string which I used CyberChef <magic> to try guess the decode of it, I got a little bit 
+of a disorted flag, but after editing it I git the flag right.
+
+picoCT=kF{d407fea24a38b1237fe0a587725fbf51}T88T88
+~~~FLAG~~~
+picoCTF{d407fea24a38b1237fe0a587725fbf51}

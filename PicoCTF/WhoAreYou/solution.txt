@@ -1,0 +1,5 @@
+# Each time I had to modify the request so I can advance, request.py has all of the steps in it (each header is a step).
+
+
+~~~FLAG~~~
+picoCTF{http_h34d3rs_v3ry_c0Ol_much_w0w_0da16bb2}

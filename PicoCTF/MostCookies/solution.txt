@@ -1,0 +1,8 @@
+# After using inspect and viewing in the network category the cookie, I saw it was encrypted.
+# After viewing the server file, I saw how it worked, so I made a brute attack on it, sending it requests with all possible key's.
+
+#Looking at the brute.py script helps understand.
+
+~~~FLAG~~~
+
+picoCTF{pwn_4ll_th3_cook1E5_dbfe90bf}

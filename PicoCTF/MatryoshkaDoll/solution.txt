@@ -1,0 +1,7 @@
+* I looked at the hint which says files can be hidden inside files (specifically photos) so I googled it and found about Steganography.
+~ Then I found that in order to hide a directory in an image, you can do: cat {image} {zip file which contains secret files} > {new encrypted image}
+~ In order to view the hidden directory/files, you can do: unzip {encrypted image}
+
+~~~FLAG~~~
+
+ picoCTF{4cf7ac000c3fb0fa96fb92722ffb2a32}

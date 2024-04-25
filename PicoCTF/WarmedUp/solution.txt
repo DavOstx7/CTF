@@ -1,0 +1,2 @@
+# I just convert 3D in hex to it's decimal value, and wraped the result in picoCTF{}
+# The easiest way for me is using python or online

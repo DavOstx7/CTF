@@ -1,0 +1,10 @@
+# I first opened the website, and saw it autofill snickerdoodle, so I tried it and it gave me an output of "That is a cookie! Not very special though..."
+# Then I did the same but with a random value instead of a cookie one, and it said "That doesn't appear to be a valid cookie."
+# Then I looked at wireshark and saw the difference in the value of cookie. With a valid one the value of num was positive, With a bad input the value of num was -1.
+* num is cookie
+# I created a bash script that commiunicates with the website, with a different value of cookie every time, increasing from 0 untill it doesnt say "That is a cookie! Not very special though..."
+# I found it stops at 18, which gives the flag.
+
+~~~FLAG~~~
+
+picoCTF{3v3ry1_l0v3s_c00k135_96cdadfd}

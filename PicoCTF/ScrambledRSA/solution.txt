@@ -1,0 +1,5 @@
+# in the decrypt.py
+
+~~~FLAG~~~
+
+picoCTF{bad_1d3a5_2268684}

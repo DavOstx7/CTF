@@ -1,0 +1,6 @@
+# I looked at the output of nc, and had no idea what is it.
+# From the hint, and from pasting a line of code, I found that it was GCODE.
+# instructions are provided to a machine controller (industrial computer) that tells the motors where to move, how fast to move, and what path to follow. 
+
+~~~FLAG~~~
+picoCTF{num3r1cal_c0ntr0l_68a8fe29}

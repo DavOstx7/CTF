@@ -1,0 +1,1 @@
+Not all ancient ciphers were so bad... The flag is not in standard format. nc mercury.picoctf.net 21003 playfair.py

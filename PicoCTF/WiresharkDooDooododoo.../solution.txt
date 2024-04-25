@@ -1,0 +1,12 @@
+# So at first I tried to look through anything, and then I found two solutions.
+
+* FIRST - I saw everything was a POST, so I filtered to find a GET by using http.request.method == get, and then followed the stream
+
+* SECOND - just look for un encrypted back and forth commiunication, or MY FAVORITE way which I saw on youtube is just following streams.
+
+# Then, I found in a HTTP respond to the GET request, something which looks like this Gur synt vf cvpbPGS{c33xno00_1_f33_h_qrnqorrs}\n,
+# This looks like the flag, and then it looked like somekind of Caeser Cipher, so I counted with my hands and saw it was rot13.
+# Then I decoded it online, and got the flag: The flag is picoCTF{p33kab00_1_s33_u_deadbeef}\a
+
+~~~FLAG~~~
+picoCTF{p33kab00_1_s33_u_deadbeef}

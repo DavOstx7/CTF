@@ -1,0 +1,6 @@
+# This question wanted to see if I know the syntax for connection with netcat. Answer is: nc jupiter.challenges.picoctf.org 64287
+ 
+~~~FLAG~~~
+
+picoCTF{nEtCat_Mast3ry_284be8f7}
+

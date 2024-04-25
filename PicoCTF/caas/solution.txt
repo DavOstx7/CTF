@@ -1,0 +1,5 @@
+# Use shell injection. Go to the cow website which executes cow: <input>
+# So, first input should be $(ls), and then $(cat <flag>)
+
+~~~FLAG~~~
+picoCTF{moooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo0o} 

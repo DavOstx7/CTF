@@ -1,0 +1,5 @@
+# Translate morse code
+
+~~~FLAG~~~
+
+PICOCTF{M0RS3C0D31SFUN3902019519}

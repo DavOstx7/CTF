@@ -1,0 +1,3 @@
+I used strings on the file, then grep for picoCTF and found the flag
+~~~FLAG~~~
+picoCTF{f0r3ns1c4t0r_n30phyt3_dcbf5942}

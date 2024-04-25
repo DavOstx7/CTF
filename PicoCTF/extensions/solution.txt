@@ -1,0 +1,6 @@
+Using strings I saw that the file flag.txt starts with IHDR and ends IEND, and that the format of a png file.
+Later I saw that using exiftool on the flag.txt also shows its a png file.
+Then I changed the extension and did display on it and got the flag.
+
+~~~FLAG~~~
+picoCTF{now_you_know_about_extensions}

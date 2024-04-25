@@ -1,0 +1,13 @@
+# How it needs to be solved:
+
+* You should make the warm file an executable, then run it and see it requests a '-h' arguement. Then you run './warm -h' and it gives you the flag.
+
+
+# How I solved it:
+
+* I inspected the file and found the flag.
+
+
+~~~FLAG~~~
+picoCTF{b1scu1ts_4nd_gr4vy_616f7182}
+

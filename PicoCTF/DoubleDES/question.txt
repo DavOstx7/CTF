@@ -1,0 +1,1 @@
+I wanted an encryption service that's more secure than regular DES, but not as slow as 3DES... The flag is not in standard format. nc mercury.picoctf.net 31991 ddes.py

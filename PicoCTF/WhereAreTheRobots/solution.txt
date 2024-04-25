@@ -1,0 +1,5 @@
+# By the name of the problem, I went straight to url/robots.txt. In there was an index named 447ce.html, which contained the flag in it.
+
+~~~FLAG~~~
+
+picoCTF{ca1cu1at1ng_Mach1n3s_477ce}

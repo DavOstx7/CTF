@@ -1,0 +1,5 @@
+# Merging the files was pretty obvious, but I couldn't find a command so I saw on yt how to do it in python.
+# Explanation is in the .py file
+
+~~~FLAG~~~
+picoCTF{2a4d45c7}

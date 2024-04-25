@@ -1,0 +1,8 @@
+# When I tried to open the file, it warned me of macro's, so I tried using a tool named: olevba (used to extract macros of a file)
+# When I used it, the flag still wasn't there.
+# Next, I unzipped the powerpoint (every power point is can be unzipped), and found a file named hidden.
+# The content in this file, looked like a base64 encoding (the content of the file is saved in './hiddenfile')
+# Then, I decoded it using the command base64 --decode OR base64 -di (btw the length of the flag isn't a multiplation of 4, so a small error will be given)
+
+~~~FLAG~~~
+picoCTF{D1d_u_kn0w_ppts_r_z1p5}

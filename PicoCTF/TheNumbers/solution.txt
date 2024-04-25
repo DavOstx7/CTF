@@ -1,0 +1,14 @@
+# I tried all sort of things on the image that didn't work
+# The I opened the image and saw numbers and "{ }" which made me think that the numbers were picoCTF{...}
+# I tried to try all of the base conversion's to decimal and then making it an ASCII char and it didn't work
+# Then I saw the hint which said the format was PICOCTF{...}
+# I then looked at the number's and saw that all of them are under 26 which looked to me like a representation of the order of alphabat,
+so I checked if 16 is P, 9 is I, and understood that I was right.
+# Then I made a python script which translates the numbers (numbers = order of alphabet) to the alphabet caps-lock chars, which gives the flag.
+
+~~~NUMBERS~~~
+16 9 3 15 3 20 6 { 20 8 5 14 21 13 2 5 18 19 13 1 19 15 14 }
+
+~~~FLAG~~~
+PICOCTF{THENUMBERSMASON}
+

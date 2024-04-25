@@ -1,0 +1,8 @@
+
+* You run the program ende.py and you see how to use it or you inspect the python file and look at the options or run ende.py with -h.
+After that you give the program the flag file and then it asks for the password so you paste the password from the pw.txt file.
+
+~~~FLAG~~~
+
+picoCTF{4p0110_1n_7h3_h0us3_192ee2db}
+ 

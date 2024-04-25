@@ -1,0 +1,2 @@
+# Looking through the java file, I could see that checking the password was checking if every char at a specific index in the password matched hard coded char.
+# I made a .py script to make a password using the index and value.

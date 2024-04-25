@@ -1,0 +1,5 @@
+# The explanation is within the .py file.
+
+~~~FLAG~~~
+
+picoCTF{sma11_N_n0_g0od_73918962}

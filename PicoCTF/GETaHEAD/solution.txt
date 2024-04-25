@@ -1,0 +1,10 @@
+# It was recommended to use Burpsuite, but I wanted to use curl because it doesn't use GUI.
+
+# At first I tried to use dirsearch, and ffuf to find hidden directories but it didn't work.
+
+# Because the name of the problem is GET aHEAD, we need to use the HEAD request, which can be done by using curl --head <url>
+
+~~~FLAG~~~
+
+picoCTF{r3j3ct_th3_du4l1ty_775f2530}
+

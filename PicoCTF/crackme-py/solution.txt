@@ -1,0 +1,22 @@
+# I saw that running the program gives me nothing, so I checked the code.
+# In the code, I found a secret var which is encoded, and also founda  rot47 decoder function.
+* encode and decode are the same operation in the ROT cipher family.
+The reason rot47 encode and decode is the same because it switches the current char to the char which is 47 steps to the right, 
+and because there is a totall of 94 chars (94/2 = 47), another movement of the encrypted char will make it 94 so it will loop.
+
+# Something cool to see was that:
+* instead of doing:
+index = ...
+new_index = index + 47
+if(new_index > 94):
+	new_index-=94
+
+* you could do this:
+index = ...
+new_index = (index + 47) % 94 
+
+# Then I run the program on the secret var to decoded and I got the original var which is the key!
+
+~~~FLAG~~~
+
+picoCTF{1|\/|_4_p34|\|ut_502b984b}

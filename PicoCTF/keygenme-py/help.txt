@@ -1,0 +1,3 @@
+username_trial = "SCHOFIELD"
+bUsername_trial = b"SCHOFIELD"
+picoCTF{1n_7h3_|<3y_of_xxxxxxxx}

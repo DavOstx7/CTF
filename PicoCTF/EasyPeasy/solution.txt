@@ -1,0 +1,12 @@
+# The solution is written within the solve.py code as comments.
+
+* But as summary: 
+1. We used second padding (Which is using all of the key, untill it reaches the starting point again)
+2. We encrypted a string of our choice (with the same length of the flag) with the secoond padding, meaning same key values as on the flag.
+3. We got the encrypted value of our string, and then extracted the key values for it.
+4. We used the key values that we found to decrypt the encrypted flag (by extracting the ord(char) and then turning it to chars)
+
+~~~FLAG~~~
+abf2f7d5edf082028076bfd7a4cfe9a9
+
+<Need to wrap it>

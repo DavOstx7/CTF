@@ -1,0 +1,7 @@
+# From the question, it was kinda obvious that I need to run strings on the file, so I did, and the greped for the flag.
+
+strings strings | grep "picoCTF"
+
+~~~FLAG~~~
+picoCTF{5tRIng5_1T_827aee91}
+

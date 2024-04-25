@@ -1,0 +1,7 @@
+# How to solve it:
+
+* You need to view the metadata of the image, recognize a weird string that looks like a base64 one, and decode it.
+* e.g: you need to use specifically exiftool and not exif, imagemagick, or identify.
+
+~~~FLAG~~~
+picoCTF{the_m3tadata_1s_modified}

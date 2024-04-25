@@ -1,0 +1,16 @@
+S + ? = U --> C
+O + ? = F --> R
+L + ? = J --> Y
+V + ? = K --> P
+E + ? = X --> T
+C + ? = Q --> O
+R + ? = Z --> I
+Y + ? = Q --> S
+P + ? = U --> F
+T + ? = N --> U
+O + ? = B --> N
+
+CRYPTOISFUN
+
+~~~FLAG~~~
+picoCTF{CRYPTOISFUN}

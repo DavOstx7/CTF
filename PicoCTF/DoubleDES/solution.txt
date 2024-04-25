@@ -1,0 +1,4 @@
+# The solution is explained in the decrypt.py - it was definitely time consuming.
+
+~~~FLAG~~~
+6d4e063d16d250b953d009e2ef07e241 

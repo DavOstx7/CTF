@@ -1,0 +1,5 @@
+# I just converted 0x70 (70 in hex) to ASCII which was the char 'p'. 
+# Then I saw the hint, which was "Submit your answer in our flag format. For example, if your answer was 'hello', you would submit 'picoCTF{hello}' as the flag."
+
+~~~FLAG~~~
+picoCTF{p}

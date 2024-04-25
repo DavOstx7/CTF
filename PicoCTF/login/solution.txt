@@ -1,0 +1,4 @@
+# I went inside the site, did view page source, and clicked on index.js. There I found the 'if' for the username and password. It looked like base 64 so I decoded it and got the flag
+
+~~~FLAG~~~
+picoCTF{53rv3r_53rv3r_53rv3r_53rv3r_53rv3r}

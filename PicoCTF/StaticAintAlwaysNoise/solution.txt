@@ -1,0 +1,13 @@
+# How it's supposed to be solves:
+
+* You should use the bash script to help us. Using ./ltdis.sh static will make two files - one assembly code of the file ? and another one is the strings within the static file.
+in the strings file that it produces the flag hides.
+
+#  How I solved it:
+
+* First thing I did was using the strings, so I could find it without using the bash file.
+
+~~~FLAG~~~
+
+picoCTF{d15a5m_t34s3r_f5aeda17}
+

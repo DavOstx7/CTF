@@ -1,0 +1,3 @@
+I looked over the code and saw no point/logic in the code itsself.
+# I saw that there is a buffer overflow handler which shows the flag.
+# I gave the program an input to program which is really big an exceeds the buffer size (100), and I got the flag.

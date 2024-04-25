@@ -1,0 +1,5 @@
+# I looked through the code, and first saw that most of it is irrelivent.
+~The first relevent part was essential information like what the is the template of the key it expects and what's the username,
+which is saved at the help.txt file.
+~The second relevant part was the function that checks_key(). Then I saw that it compared my key to somekind of hash.
+What I did next was to change my key to the value of what it expects to be right, and at the end I printed the new key which was the flag.

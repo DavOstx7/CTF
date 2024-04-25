@@ -1,0 +1,9 @@
+# I used 2 files that give the same md5 hash (I downloaded them from the internet)
+# I tried using md5 values that give the same hash but it didn't work for me.
+
+~~~FLAG~~~
+
+picoCTF{c0ngr4ts_u_r_1nv1t3d_5c8c5ce2}
+
+*** EDIT: I did found two values that the hash is the same, I needed to use echo -n <value> | xxd -r -p > file.pdf (It's in a.pdf and b.pdf)
+

@@ -1,0 +1,4 @@
+# Just save the output of the nc, to output.txt. Then cat the file and grep for pico.
+
+~~~FLAG~~~
+picoCTF{digital_plumb3r_06e9d954}
